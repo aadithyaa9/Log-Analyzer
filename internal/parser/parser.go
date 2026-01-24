@@ -2,7 +2,7 @@ package parser
 
 import (
 	"errors"
-	"github.com/yourusername/loganalyzer/internal/models"
+	"github.com/aadithyaa9/loganalyzer/internal/models"
 )
 
 // Common errors
