@@ -570,7 +570,7 @@ go test -bench=. ./...
 - **fatih/color** - Beautiful colored terminal output
 - **fsnotify** - Cross-platform file system notifications
 - **The DevOps Community** - For inspiration and real-world problem feedback
-- **Boot.dev Community** - For their innovative way of teaching go principles
+- **[Boot.dev](https://github.com/bootdotdev) Community** - For their innovative way of teaching go principles
 
 ---
 
